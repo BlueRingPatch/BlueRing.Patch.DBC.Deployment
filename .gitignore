@@ -2,6 +2,7 @@
 *.dbc
 [Dd]efinitions/
 *.bat
+*.zip
 *.exe
 *.config
 ExportResult.txt
